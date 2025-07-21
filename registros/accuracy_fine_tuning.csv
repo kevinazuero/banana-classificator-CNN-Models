@@ -1,0 +1,4 @@
+experiment,test_accuracy
+resnet50_FT,0.9861042183622828
+vgg16_FT,0.9821339950372208
+xception_FT,0.9771712158808933
