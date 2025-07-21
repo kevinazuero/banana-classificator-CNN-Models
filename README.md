@@ -29,4 +29,4 @@ I was primarily responsible for:
   - `data_analysis/`, `predicciones/`: Scripts for result analysis and prediction
 ## Documentation
 
-A detailed analysis of the model performances, selection criteria, and evaluation metrics can be found in the `documentation/` archieve. This includes all the reasoning behind the final model selection.
+A detailed analysis of the model performances, selection criteria, and evaluation metrics can be found in the `documentation/` archive. This includes all the reasoning behind the final model selection.
